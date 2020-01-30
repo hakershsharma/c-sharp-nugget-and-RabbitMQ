@@ -1,0 +1,10 @@
+one c# code TaskAllocator(send) .... to write json into queue in rabbitmq
+one nugget (Nugget to read queue).... to read message from json
+
+insert rabbitmqClient in visual studio and uipath
+add reference in c# code :
+a) system.activity
+a) system.componentModel.Compostion
+
+
+If you are stuck anywhere, ping me on hakershsharma@gmail.com
