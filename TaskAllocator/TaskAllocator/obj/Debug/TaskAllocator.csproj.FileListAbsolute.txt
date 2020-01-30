@@ -1,0 +1,11 @@
+D:\visual Studio\TaskAllocator\TaskAllocator\bin\Debug\TaskAllocator.exe.config
+D:\visual Studio\TaskAllocator\TaskAllocator\bin\Debug\TaskAllocator.exe
+D:\visual Studio\TaskAllocator\TaskAllocator\bin\Debug\TaskAllocator.pdb
+D:\visual Studio\TaskAllocator\TaskAllocator\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\visual Studio\TaskAllocator\TaskAllocator\bin\Debug\RabbitMQ.Client.dll
+D:\visual Studio\TaskAllocator\TaskAllocator\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\visual Studio\TaskAllocator\TaskAllocator\bin\Debug\RabbitMQ.Client.xml
+D:\visual Studio\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.csprojAssemblyReference.cache
+D:\visual Studio\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.csproj.CopyComplete
+D:\visual Studio\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.exe
+D:\visual Studio\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.pdb

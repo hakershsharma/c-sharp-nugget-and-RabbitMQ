@@ -1,0 +1,10 @@
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\bin\Release\nuggetToReadQueue.dll
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\bin\Release\nuggetToReadQueue.pdb
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\bin\Release\RabbitMQ.Client.dll
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\bin\Release\RabbitMQ.Client.xml
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\obj\Release\nuggetToReadQueue.csprojAssemblyReference.cache
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\obj\Release\nuggetToReadQueue.csproj.CopyComplete
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\obj\Release\nuggetToReadQueue.dll
+C:\Users\babaj\source\repos\nuggetToReadQueue\nuggetToReadQueue\obj\Release\nuggetToReadQueue.pdb

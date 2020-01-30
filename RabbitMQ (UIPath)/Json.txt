@@ -1,0 +1,28 @@
+{
+  "Header": {
+    "RecordMasterId": "47",
+    "ProcessID": "1",
+    "BOTID": "2",
+    "RetrySequence": "1",
+    "StatusCode": "2"
+  },
+  "Detail": {
+    "ProcessName": "1. IIL TTSL Static L1- AS-IS Flow"
+  },
+  "ProcessedData": {
+    "850588": {
+      "FANNumber": "59341540",
+      "City": "BANGALORE",
+      "CircuitId": "8005850588",
+      "ILLbandwidthrequired": "50 Mbps",
+      "CompanyName": "WITHUMSMITHBROWN INDIA LLP",
+      "SwitchType": "P2M",
+      "Comments": "G0/0/19 BAN-SUB-S5352P-SW-A5 1 G S_KA_BLR_118_YPR_NPT1200_07 (TS 6 Slot) GE_P-1(P2MP)",
+      "Status": "0"
+    }
+  },
+  "Status": {
+    "Value": "0001",
+    "Description": ""
+  }
+}
